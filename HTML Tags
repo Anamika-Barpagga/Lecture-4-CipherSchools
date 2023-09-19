@@ -1,5 +1,102 @@
-Hello and welcome to yet another video, in this video we are going to focus on understanding javascript.This video is also a mark of our new module altogether which is gonna be about javascript.
-But before we move into h=javascript we need to understand few building blocks of web development. Now these three building blocks are primarily called as html, css and javascript.
-So before we move full fledged into java script i would like to understand or i would like to talk to you about html or little bit. Html is one of the most important parts of any web application.
-Html stands for hypertext mark up language and it is also the standard markup language creating web pages it basically tries to talk about what is going to be the structure of a webpage.
-So if you ever imagine a webpage 
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <h1> My First Heading </h1>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lan="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Comptabile" content="IE=edge" />
+    <meta name="viewport"content="width  =device-width, intitial-scale=1.0" />
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h1>My heading</h1>
+    <p>My paragraph</p>
+  </body>
+</htmml>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <h1> My First Heading 1</h1>
+      <h2> My First Heading 1</h2>
+      <h3> My First Heading 1</h3>
+      <h4> My First Heading 1</h4>
+      <h5> My First Heading 1</h5>
+      <h6> My First Heading 1</h6>
+      <p>This is parapgraph</p>
+      <p>This s another paragraph</p>
+      <a href="https://cipherschools.com">Go to CipherSchools</a>
+      <img
+          src="https://ik.imagel=kit.in/cipherschool/CipherMentors/Harshit-Coding_Mentor.png"
+          alt="Harsh-Iamge" />
+      <button>Cick Me</button>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <blockquote>CipherSchool is amazing</blockquote>
+      <q>CipherSchool is amazing<q>
+      <button>Cick Me</button>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <blockquote cite="https://en.wikipedia.org/wiki/Harry_Potter">
+                  Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry 
+                  Potter,and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story 
+                  arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the 
+                  Ministry of Magic, and subjugate all wizards and Muggles (non-magical people).
+      </blockquote>
+      <button>Cick Me</button>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <q cite="https://en.wikipedia.org/wiki/Harry_Potter">
+                  Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry 
+                  Potter,and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story 
+                  arc concerns Harry's conflict with Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the 
+                  Ministry of Magic, and subjugate all wizards and Muggles (non-magical people).
+      </q>
+      <button>Cick Me</button>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    Page Title
+  </head>
+  <body>
+      <p>WHO is a good organization</p>
+      <button>Cick Me</button>
+  </body>
+</html>
